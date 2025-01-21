@@ -53,7 +53,7 @@ The program includes contact details displayed at the bottom of the plot: `Eray 
 2. **Run the Program:** Save the provided Python code as `staircase_paradox.py` and execute it:
 
    ```
-   python staircase_paradox.py
+   python StaircaseParadox.py
    ```
 
 3. **Interact with the Visualization:**
